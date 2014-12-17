@@ -9,6 +9,12 @@
     "tags": {
     "en": ["clean", "nature", "white", "modern", "blog", "professional", "veterinary", "doctors", "health", "pet", "simple", "surf", "love", "warm", "sans serif"]
     },
+    "images":[
+        "images/feature-bg.jpg",
+        "images/galler/1.jpg",
+        "images/galler/2.jpg",
+        "images/galler/3.jpg"
+    ],
     "colorSwatches":
     {
         "Swatch 1": {
@@ -21,7 +27,7 @@
             "color7":"#ffffff"
         },
         "Swatch 2": {
-            "color1":"#f3f0eb",
+            "color1":"#eeeeee",
             "color2":"#aaaaaa",
             "color3":"#aaaaaa",
             "color4":"#000000",
@@ -48,7 +54,7 @@
             "color7":"#ffffff"
         },
         "Swatch 5": {
-            "color1":"#f3f0eb",
+            "color1":"#ffffff",
             "color2":"#aaaaaa",
             "color3":"#D50761",
             "color4":"#444444",
