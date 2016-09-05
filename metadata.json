@@ -1,70 +1,85 @@
 {
-	"name":"Paw-care",
-	"thumbnail":"pawcare.png",
-	"screenshot":"pawcare.png",
-	"templateType":"standard",
+    "name": "Paw-care",
+    "thumbnail": "pawcare.png",
+    "screenshot": "paw-care-screenshot.jpg",
+    "templateType": "standard",
     "pageTypes": [
         "home"
     ],
     "tags": {
-    "en": ["clean", "nature", "white", "modern", "blog", "professional", "veterinary", "doctors", "health", "pet", "simple", "surf", "love", "warm", "sans serif"]
+        "en": [
+            "clean",
+            "nature",
+            "white",
+            "modern",
+            "blog",
+            "professional",
+            "veterinary",
+            "doctors",
+            "health",
+            "pet",
+            "simple",
+            "surf",
+            "love",
+            "warm",
+            "sans serif"
+        ]
     },
-    "images":[
+    "images": [
         "images/feature-bg.jpg",
         "images/galler/1.jpg",
         "images/galler/2.jpg",
         "images/galler/3.jpg"
     ],
-    "colorSwatches":
-    {
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#f3f0eb",
-            "color2":"#aaaaaa",
-            "color3":"#8DC0B9",
-            "color4":"#444444",
-            "color5":"#979797",
-            "color6":"#444444",
-            "color7":"#ffffff"
+            "color1": "#f3f0eb",
+            "color2": "#aaaaaa",
+            "color3": "#8DC0B9",
+            "color4": "#444444",
+            "color5": "#979797",
+            "color6": "#444444",
+            "color7": "#ffffff"
         },
         "Swatch 2": {
-            "color1":"#eeeeee",
-            "color2":"#aaaaaa",
-            "color3":"#aaaaaa",
-            "color4":"#000000",
-            "color5":"#979797",
-            "color6":"#aaaaaa",
-            "color7":"#ffffff"
+            "color1": "#eeeeee",
+            "color2": "#aaaaaa",
+            "color3": "#aaaaaa",
+            "color4": "#000000",
+            "color5": "#979797",
+            "color6": "#aaaaaa",
+            "color7": "#ffffff"
         },
         "Swatch 3": {
-            "color1":"#f3f0eb",
-            "color2":"#aaaaaa",
-            "color3":"#C0A983",
-            "color4":"#444444",
-            "color5":"#979797",
-            "color6":"#C0A983",
-            "color7":"#ffffff"
+            "color1": "#f3f0eb",
+            "color2": "#aaaaaa",
+            "color3": "#C0A983",
+            "color4": "#444444",
+            "color5": "#979797",
+            "color6": "#C0A983",
+            "color7": "#ffffff"
         },
         "Swatch 4": {
-            "color1":"#f3f0eb",
-            "color2":"#aaaaaa",
-            "color3":"#905788",
-            "color4":"#444444",
-            "color5":"#979797",
-            "color6":"#905788",
-            "color7":"#ffffff"
+            "color1": "#f3f0eb",
+            "color2": "#aaaaaa",
+            "color3": "#905788",
+            "color4": "#444444",
+            "color5": "#979797",
+            "color6": "#905788",
+            "color7": "#ffffff"
         },
         "Swatch 5": {
-            "color1":"#ffffff",
-            "color2":"#aaaaaa",
-            "color3":"#D50761",
-            "color4":"#444444",
-            "color5":"#979797",
-            "color6":"#D50761",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#aaaaaa",
+            "color3": "#D50761",
+            "color4": "#444444",
+            "color5": "#979797",
+            "color6": "#D50761",
+            "color7": "#ffffff"
         }
     },
     "fontSwatch": {
-       "title": "Lato",
+        "title": "Lato",
         "font1": {
             "font-family": "\"PT Sans\", Tahoma, Geneva, sans-serif",
             "font-size": "32px",
@@ -115,7 +130,7 @@
             "color-hover": "@color-swatch3",
             "background-color": "@color-swatch7",
             "background-color-hover": "@color-swatch2"
-         },
+        },
         "font7": {
             "font-family": "\"PT Sans\", Tahoma, Geneva, sans-serif",
             "font-size": "14px",
